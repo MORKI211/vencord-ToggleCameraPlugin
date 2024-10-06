@@ -53,7 +53,7 @@ export default definePlugin({
     name: "ToggleCameraPlugin",
     description:
         "A plugin to toggle the camera on and off using a CTRL+SHIFT+K shortcut.",
-    authors: [{ name: "Morki", id: 594920262764331009n }], // Your Discord ID
+    authors: [{ name: "Morki", id: 594920262764331009n }],
 
     start() {
         // Registering Ctrl + Shift + K shortcut
